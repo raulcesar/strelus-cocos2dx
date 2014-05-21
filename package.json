@@ -1,0 +1,14 @@
+{
+  "name": "ShipsCocosx",
+  "version": "0.0.1",
+  "description": "Vectrians Space Combat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Cesar Teixeira",
+  "license": "ISC",
+  "dependencies": {
+    "cocos2d-html5": "^2.2.2"
+  }
+}
